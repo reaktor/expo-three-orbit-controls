@@ -20,6 +20,7 @@
   ],
   "homepage": "https://github.com/EvanBacon/expo-three-orbit-controls",
   "scripts": {
+    "yarn": "yarn",
     "build": "expo-module build",
     "clean": "expo-module clean",
     "test": "expo-module test",
@@ -34,19 +35,20 @@
     "url": "git@github.com:EvanBacon/expo-three-orbit-controls.git"
   },
   "devDependencies": {
+    "eslint": "^6.8.0",
     "expo": "44.0.5",
     "expo-gl": "^11.0.0",
-    "expo-three": "^6.1.0",
     "expo-module-scripts": "^1.2.0",
+    "expo-three": "^6.1.0",
     "jest": "^25.1.0",
     "jest-expo": "^44.0.1",
+    "prettier": "^1.19.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
     "react-native-web": "0.17.5",
     "three": "^0.127.0",
-    "eslint": "^6.8.0",
-    "prettier": "^1.19.1"
+    "yarn": "^1.22.19"
   },
   "peerDependencies": {
     "expo": "^44.0.5",
