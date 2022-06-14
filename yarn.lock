@@ -2175,6 +2175,18 @@
   "resolved" "https://registry.npmjs.org/@types/stack-utils/-/stack-utils-2.0.1.tgz"
   "version" "2.0.1"
 
+"@types/three@^0.141.0":
+  "integrity" "sha512-OJdKDgTPVBUgc+s74DYoy4aLznbFFC38Xm4ElmU1YwGNgR7GGFVvFCX7lpVgOsT6S1zSJtGdajTsOYE8/xY9nA=="
+  "resolved" "https://registry.npmjs.org/@types/three/-/three-0.141.0.tgz"
+  "version" "0.141.0"
+  dependencies:
+    "@types/webxr" "*"
+
+"@types/webxr@*":
+  "integrity" "sha512-LQvrACV3Pj17GpkwHwXuTd733gfY+D7b9mKdrTmLdO7vo7P/o6209Qqtk63y/FCv/lspdmi0pWz6Qe/ull9kQg=="
+  "resolved" "https://registry.npmjs.org/@types/webxr/-/webxr-0.4.0.tgz"
+  "version" "0.4.0"
+
 "@types/yargs-parser@*":
   "integrity" "sha512-FA/BWv8t8ZWJ+gEOnLLd8ygxH/2UFbAvgEonyfN6yWGLKc7zVjbpl2Y4CTjid9h2RfgPP6SEt6uHwEOply00yw=="
   "resolved" "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-15.0.0.tgz"
@@ -10484,10 +10496,10 @@
   dependencies:
     "any-promise" "^1.0.0"
 
-"three@^0.127.0":
-  "integrity" "sha512-wtgrn+mhYUbobxT7QN3GPdu3SRpSBQvwY6uOzLChWS7QE//f7paDU/+wlzbg+ngeIvBBqjBHSRuywTh8A99Jng=="
-  "resolved" "https://registry.npmjs.org/three/-/three-0.127.0.tgz"
-  "version" "0.127.0"
+"three@^0.127.0", "three@^0.132.2":
+  "integrity" "sha512-0wcR7LxxkXMn6Gi58gEs3QvY8WpTVXA31L2VOvpjm4ZPYFRHCZC13UqynheFoS5OXDYgtBneN0dhbaNBE8iLhQ=="
+  "resolved" "https://registry.npmjs.org/three/-/three-0.132.2.tgz"
+  "version" "0.132.2"
 
 "throat@^4.0.0":
   "integrity" "sha1-iQN8vJLFarGJJua6TLsgDhVnKmo= sha512-wCVxLDcFxw7ujDxaeJC6nfl2XfHJNYs8yUYJnvMgtPEFlttP9tHSfRUv2vBe6C4hkVFPWoP1P6ZccbYjmSEkKA=="
