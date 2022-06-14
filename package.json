@@ -36,7 +36,7 @@
   "devDependencies": {
     "@types/three": "^0.103.2",
     "expo": "44.0.5",
-    "expo-gl": "^8.0.0",
+    "expo-gl": "^11.0.0",
     "expo-three": "^5.5.1",
     "expo-module-scripts": "^1.2.0",
     "jest": "^25.1.0",
@@ -51,7 +51,7 @@
   },
   "peerDependencies": {
     "expo": "^44.0.5",
-    "expo-gl": "^8.0.0",
+    "expo-gl": "^11.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "~0.61",
