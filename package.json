@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@types/three": "^0.103.2",
-    "expo": "37.0.7",
+    "expo": "44.0.5",
     "expo-gl": "^8.0.0",
     "expo-three": "^5.5.1",
     "expo-module-scripts": "^1.2.0",
@@ -50,7 +50,7 @@
     "prettier": "^1.19.1"
   },
   "peerDependencies": {
-    "expo": "^37.0.7",
+    "expo": "^44.0.5",
     "expo-gl": "^8.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
